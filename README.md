@@ -10,14 +10,14 @@ This Python script is used to detect the color of eyes and emotions from an imag
 4. The script uses algorithms to detect the color of eyes and emotions from an image.
 5. This can be used to further identify individuals in an image or video.
 
-<h3 align=Requirements</h3>
+<h2 align=Requirements</h2>
 
 * Python 3.6+
 * OpenCV 4+
 * haarcascade_eye.xml
 * haarcascade_smile.xml
 
-<h4 align=Usage**</h4>
+<h2 align=Usage</h2>
 
 1. Download the script and the required XML files and save them in the same folder.
 2. Replace the image.jpg file with your desired image.
